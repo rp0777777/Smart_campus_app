@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Smart_campus_app
 all in one smart campus app
->>>>>>> 327e87e3221a0eba49fa3b7a130a108da12ccc2b
+
